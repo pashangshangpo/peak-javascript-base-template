@@ -1,0 +1,7 @@
+*.min.*
+
+/dist
+/demo
+/build
+/static
+/node_modules
